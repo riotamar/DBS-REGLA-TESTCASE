@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS LOGIN VALID,Chrome 113.0.0.0,WEB PAGE and LOGIN VALID,,2023-05-23 13:41:44,2023-05-23 13:41:59,15.222s,PASSED
+,,,,,,,
+Test Cases/Login/TC.REGLA.LOGIN.001,Chrome 113.0.0.0,URL Benar (kondisi menggunakan URL Developer),,2023-05-23 13:41:44,2023-05-23 13:41:50,5.625s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-23 13:41:45,2023-05-23 13:41:48,3.002s,PASSED
+"navigateToUrl(""https://shsdev-rw.southeastasia.cloudapp.azure.com:8082/login?to=/login"")",Chrome 113.0.0.0,,,2023-05-23 13:41:48,2023-05-23 13:41:49,1.577s,PASSED
+"verifyElementText(findTestObject(""Object Repository/LOGIN/URL/URL VALID/h3_Sahassa Regla""), ""Sahassa Regla"")",Chrome 113.0.0.0,,,2023-05-23 13:41:49,2023-05-23 13:41:50,0.572s,PASSED
+,,,,,,,
+Test Cases/Login/TC.REGLA.LOGIN.003,Chrome 113.0.0.0,"Isi valid Username dan password
+
+Catatan : Password menggunakan huruf Besar , Kecil, Angka dan Simbol",,2023-05-23 13:41:50,2023-05-23 13:41:59,9.156s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-23 13:41:50,2023-05-23 13:41:53,2.826s,PASSED
+"navigateToUrl(""https://shsdev-rw.southeastasia.cloudapp.azure.com:8082/login?to=/login"")",Chrome 113.0.0.0,,,2023-05-23 13:41:53,2023-05-23 13:41:54,1.175s,PASSED
+"click(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Please login to your account_p-inputt_ee1a72""))",Chrome 113.0.0.0,,,2023-05-23 13:41:54,2023-05-23 13:41:55,0.532s,PASSED
+"setText(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Please login to your account_p-inputt_839be9""), ""rio04"")",Chrome 113.0.0.0,,,2023-05-23 13:41:55,2023-05-23 13:41:56,0.815s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Username_p-inputtext p-component p-filled""), ""6QjJ2wt5F0PN5KX+Gomc+A=="")",Chrome 113.0.0.0,,,2023-05-23 13:41:56,2023-05-23 13:41:56,0.524s,PASSED
+"click(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/span_LOGIN""))",Chrome 113.0.0.0,,,2023-05-23 13:41:56,2023-05-23 13:41:57,0.451s,PASSED
+"click(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/span_R""))",Chrome 113.0.0.0,,,2023-05-23 13:41:57,2023-05-23 13:41:58,1.058s,PASSED
+"click(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/span_Logout""))",Chrome 113.0.0.0,,,2023-05-23 13:41:58,2023-05-23 13:41:58,0.466s,PASSED
+closeBrowser(),Chrome 113.0.0.0,,,2023-05-23 13:41:58,2023-05-23 13:41:59,0.849s,PASSED
