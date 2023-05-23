@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sahassa Regla Welcome Please login to y_100f31</name>
+   <tag></tag>
+   <elementGuidId>243cb5b2-a673-4414-af61-9289db2c834f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pages-panel.card.flex.flex-column</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83bce328-b84a-4199-a477-27e3d51b9f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pages-panel card flex flex-column</value>
+      <webElementGuid>fab92bc4-ae2c-4559-8a73-a1561c187186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sahassa Regla Welcome Please login to your accountUsernamePasswordLOGIN23.5.22 © SAHASSA. ALL RIGHTS RESERVED </value>
+      <webElementGuid>409fa690-e5a2-4fc4-b76d-2075526cef18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;pages-body login-page flex justify-content-center align-items-center&quot;]/div[@class=&quot;w-480 mx-4&quot;]/div[@class=&quot;pages-panel card flex flex-column&quot;]</value>
+      <webElementGuid>f7b6fd5f-5c7a-460a-8987-bd9ea09125f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div</value>
+      <webElementGuid>3d67c7db-26d1-4d0b-af92-2423e36bfbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>62ebdaf9-c23b-45fb-8357-a8bebeb43042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sahassa Regla Welcome Please login to your accountUsernamePasswordLOGIN23.5.22 © SAHASSA. ALL RIGHTS RESERVED ' or . = 'Sahassa Regla Welcome Please login to your accountUsernamePasswordLOGIN23.5.22 © SAHASSA. ALL RIGHTS RESERVED ')]</value>
+      <webElementGuid>2d665b91-8f1e-40c9-bcfa-f5422706d6f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Username_p-inputtext p-component p-filled</name>
+   <tag></tag>
+   <elementGuidId>e4ca8e62-2d80-4753-953a-783fae5f467e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-float-label.flex.flex-row.p-input-icon-right > input.p-inputtext.p-component.p-filled</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>79864a41-c724-448f-b541-028002f6a131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-filled</value>
+      <webElementGuid>43ca106a-3a92-48f6-83b8-942f2f44608f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>1ce56c65-4b33-4bc9-82e2-66810932645d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;pages-body login-page flex justify-content-center align-items-center&quot;]/div[@class=&quot;w-480 mx-4&quot;]/div[@class=&quot;pages-panel card flex flex-column&quot;]/div[@class=&quot;input-panel flex flex-column px-3&quot;]/div[@class=&quot;text-left mb-3&quot;]/div[@class=&quot;p-inputgroup&quot;]/span[@class=&quot;p-float-label flex flex-row p-input-icon-right&quot;]/input[@class=&quot;p-inputtext p-component p-filled&quot;]</value>
+      <webElementGuid>248b5e99-1d9a-4602-9fad-a1c8dd23f1a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='password']</value>
+      <webElementGuid>c235816d-108d-44c3-a11f-0f7ca6358a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[3]/div[2]/div/span[2]/input</value>
+      <webElementGuid>4ac9cfcc-3aa9-4095-96b9-1cfd8f2d8759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span[2]/input</value>
+      <webElementGuid>497f3118-6c81-43b6-9b9a-1f8efe3ddb2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password']</value>
+      <webElementGuid>a2a8eae7-7c11-42b3-8e4e-0ed5450cb616</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

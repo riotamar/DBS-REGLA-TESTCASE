@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Isi valid Username dan password
+
+Catatan : Password menggunakan huruf Besar , Kecil, Angka dan Simbol</description>
+   <name>TC.REGLA.LOGIN.003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f7d7098-d23f-4650-9633-13fff75d0ece</testCaseGuid>
+</TestCaseEntity>
