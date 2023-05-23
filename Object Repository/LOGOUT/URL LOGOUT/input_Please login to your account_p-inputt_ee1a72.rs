@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Please login to your account_p-inputt_ee1a72</name>
+   <tag></tag>
+   <elementGuidId>c8a9f3a4-a734-4341-9fb3-c8bfb441f375</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.p-inputtext.p-component.p-invalid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>036aa41e-d380-4ec4-bc2e-07e08bc26c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-invalid</value>
+      <webElementGuid>02fdaf73-026b-4a16-9b1d-7d02280d6e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;pages-body login-page flex justify-content-center align-items-center&quot;]/div[@class=&quot;w-480 mx-4&quot;]/div[@class=&quot;pages-panel card flex flex-column&quot;]/div[@class=&quot;input-panel flex flex-column px-3&quot;]/div[@class=&quot;text-left mb-3&quot;]/div[@class=&quot;p-inputgroup&quot;]/span[@class=&quot;p-float-label flex flex-row&quot;]/input[@class=&quot;p-inputtext p-component p-invalid&quot;]</value>
+      <webElementGuid>ef8ebf2a-6b41-4798-8db6-2a8e71fc35af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='']</value>
+      <webElementGuid>8d0dece4-9a5a-4e21-a962-292b7c0b5458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[3]/div/div/span[2]/input</value>
+      <webElementGuid>fdcf4172-02a8-406d-8993-3dc689eaaa7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>2616c131-f2b8-4816-ad09-4d4f14b2ad4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

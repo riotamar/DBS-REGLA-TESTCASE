@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>REGLA LOGOUT</description>
+   <name>TC.REGLA.LOGOUT.001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83024297-af68-4d55-af4b-e8691ea3624c</testCaseGuid>
+</TestCaseEntity>

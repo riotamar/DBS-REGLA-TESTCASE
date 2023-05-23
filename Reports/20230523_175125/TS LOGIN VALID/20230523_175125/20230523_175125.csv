@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS LOGIN VALID,Chrome 113.0.0.0,WEB PAGE and LOGIN VALID,,2023-05-23 17:51:28,2023-05-23 17:52:15,47.129s,FAILED
+,,,,,,,
+Test Cases/Login/TC.REGLA.LOGIN.001,Chrome 113.0.0.0,URL Benar (kondisi menggunakan URL Developer),,2023-05-23 17:51:29,2023-05-23 17:51:34,5.365s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-23 17:51:29,2023-05-23 17:51:32,2.760s,PASSED
+"navigateToUrl(""https://shsdev-rw.southeastasia.cloudapp.azure.com:8082/login?to=/login"")",Chrome 113.0.0.0,,,2023-05-23 17:51:32,2023-05-23 17:51:33,1.775s,PASSED
+"verifyElementText(findTestObject(""Object Repository/LOGIN/URL/URL LOGIN VALID/h3_Sahassa Regla""), ""Sahassa Regla"")",Chrome 113.0.0.0,,,2023-05-23 17:51:33,2023-05-23 17:51:34,0.470s,PASSED
+,,,,,,,
+Test Cases/Login/TC.REGLA.LOGIN.003,Chrome 113.0.0.0,"Isi valid Username dan password
+
+Catatan : Password menggunakan huruf Besar , Kecil, Angka dan Simbol",,2023-05-23 17:51:34,2023-05-23 17:51:40,6.520s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-23 17:51:34,2023-05-23 17:51:36,2.176s,PASSED
+"navigateToUrl(""https://shsdev-rw.southeastasia.cloudapp.azure.com:8082/login?to=/login"")",Chrome 113.0.0.0,,,2023-05-23 17:51:36,2023-05-23 17:51:38,1.810s,PASSED
+"click(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Please login to your account_p-inputt_ee1a72""))",Chrome 113.0.0.0,,,2023-05-23 17:51:38,2023-05-23 17:51:39,0.460s,PASSED
+"setText(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Please login to your account_p-inputt_839be9""), ""rio04"")",Chrome 113.0.0.0,,,2023-05-23 17:51:39,2023-05-23 17:51:39,0.766s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Username_p-inputtext p-component p-filled""), ""6QjJ2wt5F0PN5KX+Gomc+A=="")",Chrome 113.0.0.0,,,2023-05-23 17:51:39,2023-05-23 17:51:40,0.524s,PASSED
+"click(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/span_LOGIN""))",Chrome 113.0.0.0,,,2023-05-23 17:51:40,2023-05-23 17:51:40,0.442s,PASSED
+,,,,,,,
+Test Cases/Login/TC.REGLA.LOGOUT.001,Chrome 113.0.0.0,REGLA LOGOUT,,2023-05-23 17:51:40,2023-05-23 17:52:15,34.920s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-23 17:51:41,2023-05-23 17:51:43,2.198s,PASSED
+"navigateToUrl(""https://shsdev-rw.southeastasia.cloudapp.azure.com:8082/login?to=/login"")",Chrome 113.0.0.0,,,2023-05-23 17:51:43,2023-05-23 17:51:44,0.608s,PASSED
+"click(findTestObject(""Object Repository/LOGOUT/URL LOGOUT/span_R""))",Chrome 113.0.0.0,,,2023-05-23 17:51:44,2023-05-23 17:52:15,31.804s,FAILED

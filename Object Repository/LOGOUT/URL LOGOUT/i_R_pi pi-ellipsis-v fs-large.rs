@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_R_pi pi-ellipsis-v fs-large</name>
+   <tag></tag>
+   <elementGuidId>85e9c810-e6cf-4014-b308-a9a78f179ab1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.pi-ellipsis-v.fs-large</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/a[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6006a0a2-aeec-4a22-af63-2ecc20c0b1a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-ellipsis-v fs-large</value>
+      <webElementGuid>a2aefa62-488f-45d5-a68e-563cd9fbdf1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper screen layout-menu-light layout-topbar-blue layout-menu-static layout-menu-active&quot;]/div[@class=&quot;layout-topbar shadow-4&quot;]/div[@class=&quot;layout-topbar-left&quot;]/a[@class=&quot;layout-topbar-mobile-button p-ripple&quot;]/i[@class=&quot;pi pi-ellipsis-v fs-large&quot;]</value>
+      <webElementGuid>3e8f13a7-790a-4c4f-82c6-d2695d9d435f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/a[3]/i</value>
+      <webElementGuid>d6c3bace-1a67-4622-852f-c23e47936ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+      <webElementGuid>c2afe157-8607-48e0-8cb1-23706c3d580a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

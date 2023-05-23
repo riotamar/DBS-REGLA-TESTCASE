@@ -21,5 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://shsdev-rw.southeastasia.cloudapp.azure.com:8082/login?to=/login')
 
-WebUI.verifyElementText(findTestObject('Object Repository/LOGIN/URL/URL VALID/h3_Sahassa Regla'), 'Sahassa Regla')
+WebUI.verifyElementText(findTestObject('Object Repository/LOGIN/URL/URL LOGIN VALID/h3_Sahassa Regla'), 'Sahassa Regla')
 

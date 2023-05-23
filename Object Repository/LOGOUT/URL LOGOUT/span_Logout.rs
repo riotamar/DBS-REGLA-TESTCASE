@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Logout</name>
+   <tag></tag>
+   <elementGuidId>1fd8d986-8c0d-48ad-9468-a4d0c9fcb223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/ul/li/ul/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d52c4156-46f7-4617-9027-42f61846b2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>c9b0b2d1-0726-474a-a5a6-696d572a829c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper screen layout-menu-light layout-topbar-blue layout-menu-static layout-menu-active&quot;]/div[@class=&quot;layout-topbar shadow-4&quot;]/div[@class=&quot;layout-topbar-right&quot;]/div[@class=&quot;layout-topbar-actions-right&quot;]/ul[@class=&quot;layout-topbar-items&quot;]/li[@class=&quot;layout-topbar-item&quot;]/ul[@class=&quot;layout-topbar-action-panel shadow-6&quot;]/li[@class=&quot;layout-topbar-action-item&quot;]/a[@class=&quot;flex flex-row align-items-center p-ripple&quot;]/span[1]</value>
+      <webElementGuid>a61e1d65-e871-439d-8d1f-b21b16790768</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/ul/li/ul/li[3]/a/span</value>
+      <webElementGuid>fcc438bb-8d58-4c45-9511-70a62a676be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::span[2]</value>
+      <webElementGuid>c6a88b76-7084-4df9-8516-6bc4c480b578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SA'])[1]/following::span[4]</value>
+      <webElementGuid>2fa6787b-fff8-4c9b-9585-3b68717f2321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::span[8]</value>
+      <webElementGuid>40ce2b5a-0f5e-42b3-9edf-97b4b85bfaf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[11]</value>
+      <webElementGuid>bae3b6fa-042d-4fcb-8756-d1c27960a8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>0e4c4ba2-dbf8-43cc-a54f-3221a9e66a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>02e7360b-bb53-4f05-98ba-2592b22466ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>6feddc92-1e7b-4082-b550-326ac323f20c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

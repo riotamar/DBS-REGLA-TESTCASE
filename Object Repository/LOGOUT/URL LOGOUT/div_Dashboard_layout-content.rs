@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dashboard_layout-content</name>
+   <tag></tag>
+   <elementGuidId>e4b9707b-799d-4af2-9329-321e2c1a4b17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.layout-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8209ea22-a7eb-4dc7-8043-6ab814170542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-content</value>
+      <webElementGuid>edcf51cd-f346-4d16-8aaf-5fd045de71da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper screen layout-menu-light layout-topbar-blue layout-menu-static layout-menu-active&quot;]/div[@class=&quot;layout-main&quot;]/div[@class=&quot;layout-content&quot;]</value>
+      <webElementGuid>66584a59-aa44-4f68-9639-69c8b3908769</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div[2]</value>
+      <webElementGuid>2f02e8a2-353a-4ca0-a382-beabaaa14fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[3]/following::div[1]</value>
+      <webElementGuid>8d1c37f2-ec4b-48b5-9a6b-1c26e0172730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Parameter'])[2]/following::div[3]</value>
+      <webElementGuid>5aa97a6f-cc4e-460c-bb18-375d3e2257b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAHASSA'])[1]/preceding::div[3]</value>
+      <webElementGuid>a010c25f-2546-4bc4-91a3-c81ad298f0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>984abbe7-642a-479d-866d-6313c5bac1dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

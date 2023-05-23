@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_R</name>
+   <tag></tag>
+   <elementGuidId>5f949f55-de96-4c64-892d-92f5c15e2f7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.layout-topbar-action.flex.flex-row.justify-content-center.align-items-center.px-2.rounded-circle.p-ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3ce801f-9fe3-4400-839b-f7e71bc6b8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-topbar-action flex flex-row justify-content-center align-items-center px-2 rounded-circle p-ripple</value>
+      <webElementGuid>3c712f28-1792-4c9a-961d-289b434d981b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>R</value>
+      <webElementGuid>890ec2ff-a52d-4c77-ba86-a940a8d2433e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper screen layout-menu-light layout-topbar-blue layout-menu-static layout-menu-active layout-topbar-mobile-active&quot;]/div[@class=&quot;layout-topbar shadow-4&quot;]/div[@class=&quot;layout-topbar-right layout-topbar-mobile-active&quot;]/div[@class=&quot;layout-topbar-actions-right&quot;]/ul[@class=&quot;layout-topbar-items&quot;]/li[@class=&quot;layout-topbar-item&quot;]/a[@class=&quot;layout-topbar-action flex flex-row justify-content-center align-items-center px-2 rounded-circle p-ripple&quot;]</value>
+      <webElementGuid>6f942ddb-7792-4052-957f-569c20ac72e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/ul/li/a</value>
+      <webElementGuid>49683735-62f2-4275-8859-155ff4726923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rio04'])[1]/preceding::a[1]</value>
+      <webElementGuid>57da3e83-27b7-466c-96b5-6a5cf47d2512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>eff507c8-ea2d-483a-81fc-1dcc53e7f2e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'R' or . = 'R')]</value>
+      <webElementGuid>c22d8d14-3980-415d-bf23-fa3ca0a842a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

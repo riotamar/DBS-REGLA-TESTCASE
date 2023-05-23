@@ -17,17 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Object Repository/LOGOUT/URL LOGOUT/span_R'))
 
-WebUI.navigateToUrl('https://shsdev-rw.southeastasia.cloudapp.azure.com:8082/login?to=/login')
+WebUI.click(findTestObject('Object Repository/LOGOUT/URL LOGOUT/span_Logout'))
 
-WebUI.click(findTestObject('Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Please login to your account_p-inputt_ee1a72'))
-
-WebUI.setText(findTestObject('Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Please login to your account_p-inputt_839be9'), 
-    'rio04')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Username_p-inputtext p-component p-filled'), 
-    '6QjJ2wt5F0PN5KX+Gomc+A==')
-
-WebUI.click(findTestObject('Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/span_LOGIN'))
+WebUI.closeBrowser()
 

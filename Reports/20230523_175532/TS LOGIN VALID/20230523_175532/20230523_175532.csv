@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS LOGIN VALID,Chrome 113.0.0.0,WEB PAGE and LOGIN VALID,,2023-05-23 17:55:35,2023-05-23 17:55:43,8.634s,PASSED
+,,,,,,,
+Test Cases/Login/TC.REGLA.LOGIN.003,Chrome 113.0.0.0,"Isi valid Username dan password
+
+Catatan : Password menggunakan huruf Besar , Kecil, Angka dan Simbol",,2023-05-23 17:55:35,2023-05-23 17:55:41,6.114s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-23 17:55:35,2023-05-23 17:55:38,2.656s,PASSED
+"navigateToUrl(""https://shsdev-rw.southeastasia.cloudapp.azure.com:8082/login?to=/login"")",Chrome 113.0.0.0,,,2023-05-23 17:55:38,2023-05-23 17:55:39,0.584s,PASSED
+"click(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Please login to your account_p-inputt_ee1a72""))",Chrome 113.0.0.0,,,2023-05-23 17:55:39,2023-05-23 17:55:40,0.786s,PASSED
+"setText(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Please login to your account_p-inputt_839be9""), ""rio04"")",Chrome 113.0.0.0,,,2023-05-23 17:55:40,2023-05-23 17:55:40,0.764s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/input_Username_p-inputtext p-component p-filled""), ""6QjJ2wt5F0PN5KX+Gomc+A=="")",Chrome 113.0.0.0,,,2023-05-23 17:55:40,2023-05-23 17:55:41,0.515s,PASSED
+"click(findTestObject(""Object Repository/LOGIN/Username Password/USERNAME PASSWORD VALID/span_LOGIN""))",Chrome 113.0.0.0,,,2023-05-23 17:55:41,2023-05-23 17:55:41,0.437s,PASSED
+,,,,,,,
+Test Cases/Login/TC.REGLA.LOGOUT.001,Chrome 113.0.0.0,REGLA LOGOUT,,2023-05-23 17:55:41,2023-05-23 17:55:43,2.218s,PASSED
+"click(findTestObject(""Object Repository/LOGOUT/URL LOGOUT/span_R""))",Chrome 113.0.0.0,,,2023-05-23 17:55:42,2023-05-23 17:55:42,0.660s,PASSED
+"click(findTestObject(""Object Repository/LOGOUT/URL LOGOUT/span_Logout""))",Chrome 113.0.0.0,,,2023-05-23 17:55:42,2023-05-23 17:55:43,0.400s,PASSED
+closeBrowser(),Chrome 113.0.0.0,,,2023-05-23 17:55:43,2023-05-23 17:55:43,0.788s,PASSED
